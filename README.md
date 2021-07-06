@@ -1,0 +1,2 @@
+# edurika
+my first repositrory
